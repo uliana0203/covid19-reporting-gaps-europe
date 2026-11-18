@@ -25,14 +25,9 @@ Download WHO COVID-19 case and death data from the [WHO COVID-19 dashboard](http
 - `WHO-COVID-19-global-daily-data.csv`
 - `API_SP.POP.TOTL_DS2_en_csv_v2_379644.csv`
 
-The notebook reads local files; it does not download or rename them. The manuscript reports that its WHO snapshot was downloaded on 20 September 2026. The sources can be revised, and a download made today may not match the historical files used in this study. The exact access date of the local file has not been independently verified. The following SHA-256 checksums identify the local inputs used for the saved notebook outputs:
+The notebook reads local files; it does not download or rename them. The manuscript reports that the WHO snapshot was downloaded on 20 September 2026. WHO and World Bank data may be revised, so later downloads may differ from the files used in the study.
 
-```text
-47afc78d45fa38929d9c66b401a222292ba4b9d4159cfe30b97d2baee7c63b2e  WHO-COVID-19-global-daily-data.csv
-097e1a1fd3551f88868d23310c13a4a9d2ca4d84c9159278bea751317bfceb76  API_SP.POP.TOTL_DS2_en_csv_v2_379644.csv
-```
-
-The historical snapshots are not distributed here. Source conditions and attribution requirements apply. Selected Ukrainian national surveillance figures are transcribed in the notebook from official releases; their dates, definitions and source links should be checked against the original publications.
+Selected Ukrainian national surveillance figures are transcribed in the notebook from official public-health releases. The datasets are not included in this repository and remain subject to the terms of their original providers.
 
 ## Run the notebook
 
