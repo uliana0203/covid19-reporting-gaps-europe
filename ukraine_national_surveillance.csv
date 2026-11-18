@@ -1,0 +1,7 @@
+period_start,period_end,cases,case_qualifier,deaths,manuscript_reference,source_url,notes
+2023-09-18,2023-09-24,2500,approximate,,59,https://phc.org.ua/news/v-ukraini-zrostae-zakhvoryuvanist-na-covid-19-igor-kuzin-ozvuchiv-statistiku,Week assigned in analysis from relative description; exact dates not stated in source.
+2023-09-25,2023-10-01,4000,more_than,9,59,https://phc.org.ua/news/v-ukraini-zrostae-zakhvoryuvanist-na-covid-19-igor-kuzin-ozvuchiv-statistiku,"Week assigned in analysis from relative description; source reports more than 4,000 cases and 9 deaths."
+2023-10-23,2023-10-29,9480,exact,45,57,https://phc.org.ua/news/epidsezon-2023-2024-za-tizhden-na-grvi-zakhvorili-ponad-143-tisyachi-osib,
+2023-10-30,2023-11-05,9827,exact,51,58,https://moz.gov.ua/uk/epidsezon-202324-ponad-600-tisjach-ukrainciv-zahvorili-na-grvi-grip-ta-covid-19-u-zhovtni,
+2024-01-15,2024-01-21,3654,exact,30,60,https://phc.org.ua/news/grip-grvi-ta-covid-19-v-ukraini-z-pochatku-epidsezonu-perekhvorili-blizko-23-milyona-lyudey,
+2023-10-02,2024-01-21,130232,exact,650,60,https://phc.org.ua/news/grip-grvi-ta-covid-19-v-ukraini-z-pochatku-epidsezonu-perekhvorili-blizko-23-milyona-lyudey,"Cumulative total for 16 weeks, not a weekly value."
