@@ -51,6 +51,6 @@ The notebook metadata identifies Python 3.11.8. Package versions in `requirement
 
 ## Archive and license
 
-An earlier archive of the analysis notebook and figures is available on [Zenodo](https://doi.org/10.5281/zenodo.24341948). It does not include the input datasets.
+The analysis notebook, figures, and input datasets are archived on [Zenodo](https://doi.org/10.5281/zenodo.24342182).
 
 The analysis code is available under the [MIT License](LICENSE). Third-party datasets are subject to their respective source terms.
